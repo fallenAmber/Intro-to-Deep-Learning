@@ -1,6 +1,6 @@
 # Intro-to-Deep-Learning
 
-This work is modeled on Kaggle’s ‘’Intro to Deep Learning Course.” Here, I will build a beginner friendly deep neural network using Keras and Tensorflow. We will:
+This work is modeled on Kaggle’s ‘’Intro to Deep Learning Course.” Here, I will build a beginner friendly deep neural network using Keras and Tensorflow. I will:
 
 •	create a fully-connected neural network architecture
 
