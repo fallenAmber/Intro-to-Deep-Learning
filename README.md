@@ -1,11 +1,3 @@
 # Intro-to-Deep-Learning
 
-This work is modeled on Kaggle’s ‘’Intro to Deep Learning Course.” Here, I will build a beginner friendly deep neural network using Keras and Tensorflow. I will:
-
-•	create a fully-connected neural network architecture
-
-•	apply neural nets to two classic ML problems: regression and classification
-
-•	train neural nets with stochastic gradient descent, and
-
-•	improve performance with dropout, batch normalization, and other techniques
+Welcome to the "Intro to Deep Learning" repository! This repository aims to provide a comprehensive collection of essential concepts, and code examples to help understand and dive into the exciting world of deep learning.
